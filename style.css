@@ -506,4 +506,12 @@ cursor: pointer;
         place-items: center;
         gap: 30px;
     }
+    .review-top-heading{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+    .review-top-heading .title{
+        font-size: 2rem;
+    }
 }
